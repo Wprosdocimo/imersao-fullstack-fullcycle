@@ -1,4 +1,4 @@
-module github.com/wprosdocimo/imersao/codepix-go
+module github.com/wprosdocimo/imersao-fullstack-fullcycle/codepix
 
 go 1.15
 
