@@ -16,8 +16,8 @@ limitations under the License.
 package cmd
 
 import (
-	"github.com/codeedu/imersao/codepix-go/application/grpc"
-	"github.com/codeedu/imersao/codepix-go/infrastructure/db"
+	"github.com/wprosdocimo/imersao-fullstack-fullcycle/codepix/application/grpc"
+	"github.com/wprosdocimo/imersao-fullstack-fullcycle/codepix/infrastructure/db"
 	"os"
 
 	"github.com/spf13/cobra"

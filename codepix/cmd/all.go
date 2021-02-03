@@ -16,9 +16,9 @@ limitations under the License.
 package cmd
 
 import (
-	"github.com/codeedu/imersao/codepix-go/application/grpc"
-	"github.com/codeedu/imersao/codepix-go/application/kafka"
-	"github.com/codeedu/imersao/codepix-go/infrastructure/db"
+	"github.com/wprosdocimo/imersao-fullstack-fullcycle/codepix/application/grpc"
+	"github.com/wprosdocimo/imersao-fullstack-fullcycle/codepix/application/kafka"
+	"github.com/wprosdocimo/imersao-fullstack-fullcycle/codepix/infrastructure/db"
 	ckafka "github.com/confluentinc/confluent-kafka-go/kafka"
 	"github.com/spf13/cobra"
 	"os"
